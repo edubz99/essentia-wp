@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Sirpi Child
+ Theme URI:    https://sirpi.wpengine.com/
+ Description:  Sirpi Child Theme
+ Author:       the WeDesignTech team
+ Author URI:   https://wedesignthemes.com/
+ Template:     sirpi
+ Version:      1.0.0
+ Text Domain:  sirpi-child
+*/
+
+.pl-developer {
+	display: none !important;
+}
